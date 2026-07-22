@@ -7,7 +7,7 @@
 - ESP 32 (I used ESP32 DEV KIT DOIT)
 - Jumper wires
 
-
+# Circuit Diagram
 
 ![alt text](https://github.com/isadoraassumpcao/presence_detector_esp32/blob/cadcc7c0b06fa9b1115d68d508a0df28b6c0b8f1/radar_circuit_diagram.png)
 
