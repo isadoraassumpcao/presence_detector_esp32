@@ -1,5 +1,5 @@
-## Presence Detector with ESP32 Project
-# Components I used :
+# Presence Detector with ESP32 Project
+## Components I used :
 - 1 Ultrasonic Distance Sensor
 - 2 LED (1 red, 1 green)
 - 1 Active Buzzer
@@ -7,4 +7,4 @@
 - ESP 32 (I used ESP32 DEV KIT DOIT)
 - Jumper wires
 
-Nice begginer project to practice, I loved doing this, 10/10 :)
+### Nice begginer project to practice, I loved doing this, 10/10 :)
