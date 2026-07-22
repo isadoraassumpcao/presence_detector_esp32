@@ -7,5 +7,9 @@
 - ESP 32 (I used ESP32 DEV KIT DOIT)
 - Jumper wires
 
+#Circuit Diagram:
+
+
+
 ### Nice begginer project to practice, I loved doing this, 10/10
 My mailbox is always open in: isadoraassumpcao1@gmail.com :)
